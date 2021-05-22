@@ -29,5 +29,5 @@ int main()
         if(currentsum[i]>max)
             max = currentsum[i];
     }
-    cout<<"max sum = "<<max;
+    cout<<"max sum = "<<max<<endl;
 }
